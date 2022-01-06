@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# PMAT Labs Walktroughs by Kamran Saifullah - Frog Man (@deFr0ggy)
+# PMAT Labs Walkthroughs by Kamran Saifullah - Frog Man (@deFr0ggy)
 
 
 This repository consists of solutions/wakthroughs of Practical Malware Analysis & Trage Course Labs. This repo follows the same hierarchy of the PMAT Repo by HuskyHacks i.e. the analysis walkthroughs will be found under each labs folder respectively.
