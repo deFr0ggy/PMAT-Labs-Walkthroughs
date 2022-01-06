@@ -27,7 +27,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 - [ ] 2-3. Challenge-SikoMode
 - [x] 3-1. GonePhishing-MalDocAnalysis
 - [x] 3-2. WhatTheShell-ShellCodeAnalysis
-- [ ] 3-3. OffScript-ScriptMalware
+- [x] 3-3. OffScript-ScriptMalware
 - [ ] 3-4. StaySharp-CSharpMalware
 - [ ] 3-5. GoTime-GoMalware
 - [ ] 3-6. Mobile-Malware-Android
