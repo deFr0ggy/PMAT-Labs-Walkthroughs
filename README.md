@@ -21,7 +21,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 - [ ] 0-1. HandlingAndSafety
 - [ ] 1-1. BasicStaticAnalysis
 - [ ] 1-2. BasicDynamicAnalysis
-- [ ] 1-3. Challenge-SillyPutty
+- [x] 1-3. Challenge-SillyPutty
 - [ ] 2-1. AdvancedStaticAnalysis
 - [ ] 2-2. AdvancedDynamicAnalysis
 - [ ] 2-3. Challenge-SikoMode
