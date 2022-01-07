@@ -18,7 +18,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 
 ##  Walkthroughs Status
 
-- [ ] 0-1. HandlingAndSafety
+- [x] 0-1. HandlingAndSafety
 - [ ] 1-1. BasicStaticAnalysis
 - [ ] 1-2. BasicDynamicAnalysis
 - [x] 1-3. Challenge-SillyPutty
@@ -31,7 +31,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 - [ ] 3-4. StaySharp-CSharpMalware
 - [x] 3-5. GoTime-GoMalware
 - [ ] 3-6. Mobile-Malware-Android
-- [ ] 4-1 BossFight-WannaCry
+- [ ] 4-1. BossFight-WannaCry
 - [ ] 5-1. Automation-BlueJupyter
 - [ ] 5-2. RuleWriting
 - [ ] 5-3. Report Writing
