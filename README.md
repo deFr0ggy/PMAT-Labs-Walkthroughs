@@ -19,7 +19,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 ##  Walkthroughs Status
 
 - [x] 0-1. HandlingAndSafety
-- [ ] 1-1. BasicStaticAnalysis
+- [x] 1-1. BasicStaticAnalysis
 - [ ] 1-2. BasicDynamicAnalysis
 - [x] 1-3. Challenge-SillyPutty
 - [ ] 2-1. AdvancedStaticAnalysis
