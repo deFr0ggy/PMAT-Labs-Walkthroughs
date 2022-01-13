@@ -28,7 +28,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 - [x] 3-1. GonePhishing-MalDocAnalysis
 - [x] 3-2. WhatTheShell-ShellCodeAnalysis
 - [x] 3-3. OffScript-ScriptMalware
-- [ ] 3-4. StaySharp-CSharpMalware
+- [x] 3-4. StaySharp-CSharpMalware
 - [x] 3-5. GoTime-GoMalware
 - [ ] 3-6. Mobile-Malware-Android
 - [ ] 4-1. BossFight-WannaCry
