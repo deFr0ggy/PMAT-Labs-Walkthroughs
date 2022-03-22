@@ -33,7 +33,7 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 - [x] 3-6. Mobile-Malware-Android
 - [ ] 4-1. BossFight-WannaCry
 - [x] 5-1. Automation-BlueJupyter
-- [ ] 5-2. RuleWriting
+- [x] 5-2. RuleWriting
 - [x] 5-3. Report Writing
 
 ## Want To Appreciate?
