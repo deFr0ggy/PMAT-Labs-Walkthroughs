@@ -20,18 +20,14 @@ This repository consists of solutions/wakthroughs of Practical Malware Analysis 
 
 - [x] 0-1. HandlingAndSafety
 - [x] 1-1. BasicStaticAnalysis
-- [ ] 1-2. BasicDynamicAnalysis
+- [x] 1-2. BasicDynamicAnalysis
 - [x] 1-3. Challenge-SillyPutty
-- [ ] 2-1. AdvancedStaticAnalysis
-- [ ] 2-2. AdvancedDynamicAnalysis
-- [ ] 2-3. Challenge-SikoMode
 - [x] 3-1. GonePhishing-MalDocAnalysis
 - [x] 3-2. WhatTheShell-ShellCodeAnalysis
 - [x] 3-3. OffScript-ScriptMalware
 - [x] 3-4. StaySharp-CSharpMalware
 - [x] 3-5. GoTime-GoMalware
 - [x] 3-6. Mobile-Malware-Android
-- [ ] 4-1. BossFight-WannaCry
 - [x] 5-1. Automation-BlueJupyter
 - [x] 5-2. RuleWriting
 - [x] 5-3. Report Writing
